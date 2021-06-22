@@ -1,0 +1,7 @@
+
+DirectXTex
+„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ
+
+AuthorFmicrosoft
+
+URLFhttps://github.com/microsoft/DirectXTex
